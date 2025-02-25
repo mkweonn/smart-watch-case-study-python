@@ -23,6 +23,6 @@ Analyze Fitbit usage data to gain insights into how consumers are using non-Bell
 - Python on Jypter Notebook for data cleaning, transformation, visualization and analysis.
   
 ### Links:
-- ![Full Case Study Report](BellabeatCaseStudy.ipynb)
-- ![Dataset](Fitbit Data 4.12.16-5.12.16): publically available on ![Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit).
+- [Full Case Study Report](BellabeatCaseStudy.ipynb)
+- [Dataset](Fitbit Data 4.12.16-5.12.16): publically available on [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit).
 
